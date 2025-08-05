@@ -2,7 +2,7 @@
 
 A complete **CRUD (Create, Read, Update, Delete) API** for managing recipes, built with **Node.js, Express.js, and Mongoose** following the MVC pattern.
 
----
+--- 
 
 ## 🚀 **Features**
 
